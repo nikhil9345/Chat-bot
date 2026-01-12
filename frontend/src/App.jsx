@@ -1,5 +1,4 @@
 import React from 'react'
-import Login from './components/Login'
 import Chatbot from './components/Chatbot'
 
 const App = () => {
